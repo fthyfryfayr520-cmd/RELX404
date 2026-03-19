@@ -1,0 +1,5 @@
+en_US
+en_GB
+ar_EG
+ar_SA
+fr_FR
